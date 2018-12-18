@@ -23,3 +23,4 @@ def maingame(a, b, tries, diff):
         if tries == 0:
             print('Oops! You\'ve exhausted all your tries. \nThe number I thought of was ' + str(randnum))
             print('Replay to try again.')
+

@@ -22,9 +22,9 @@ def casual():
 
 
 def hard():
-    # easy difficulty. Number of tries
+    # Hard difficulty. Number of tries
     a = 1
-    b = 20
+    b = 150
     tries = 7
     diff = 'Hard'
     # select random number
